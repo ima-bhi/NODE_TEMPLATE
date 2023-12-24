@@ -1,2 +1,2 @@
 # NODE_TEMPLATE
-Node.js Template with TypeScript (using DI and loggers)
+Node.js Template using Typescript
